@@ -24,12 +24,13 @@ A mini web application that allows users to swap skills with others in their com
 - Authentication: (optional) Firebase Auth
 
 ## 🧪 How to Run
+'''
 npm install --legacy-peer-deps
 npm run dev
 
 ### Backend
 ```bash
-cd backend
-pip install -r requirements.txt
-uvicorn main:app --reload
+npm install --legacy-peer-deps
+npm run dev
+
 
